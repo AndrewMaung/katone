@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Sharon the Katone</title><style>
+.person {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+img{border:5px solid black;
+
+  margin-right: 80px;
+margin-left: 600px;}
+#line1{outline-style: inset;
+outline-color:tomato;
+color: tomato}
+</style>
+</head>
+<body>
+ 
+
+<h1 style="background-color:#663399;">The famous katone of the year 2018</h1>
+<p id="line1"> Su San Htet also known as Sharon was awarded 'Miss Universel Katone of the year 2018'.</p>
+<img src="img/katone ma.jpg">
+<div class="person">
+<h2>Sharon</h2>
+<p>Winner of Miss Universel katone 2018</p>
+</div> 
+<a href="https://135plaza.com/read-blog/3_the-famous-katon-of-the-year-2018.html">Click to read more at 135plaza.com</a>
+</body>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+ background-image: url("/home/pp/Documents/Amo/img/night-trees-milky-way-stars.jpg");
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+#name{color:tomato;}
+</style>
+</head>
+<body>
+
+<h1 id="name">「Andrew」</h1>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i>
+<i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i>
+<i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i>
+<i class="fa fa-cloud"></i>
+<i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i><i class="fa fa-cloud"></i>
+</body>
+</html>
+ <html>
+<head>
+<style>
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.pagination a.active {
+  background-color: #4CAF50;
+  color: white;
+  border-radius: 5px;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+  border-radius: 5px;
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="pagination">
+  <a href="#">&laquo;</a>
+  <a href="#" class="active">1</a>
+  <a href="#">2</a>
+  <a href="#">3</a>
+  <a href="#">4</a>
+  <a href="#">5</a>
+  <a href="#">6</a>
+  <a href="#">&raquo;</a>
+</div>
+
+</body>
+</html>
